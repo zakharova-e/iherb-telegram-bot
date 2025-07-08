@@ -1,0 +1,6 @@
+#ignore inviroment variables
+*.env
+
+# Editor-specific files
+.idea/
+.vscode/
